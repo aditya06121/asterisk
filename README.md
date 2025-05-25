@@ -12,5 +12,6 @@ it does not use white spaces and indentation;
 
 The steps of the compilation process:
 
-1. lexical analysis - converting plain string into a series of tokens.
-   therefore, the first thing to do is to take the name of the file as the command line argument and check if the extension is valid.
+1. lexical analysis (tokenization) - converting plain string into a series of tokens.
+   therefore, the first thing to do is to take the name of the file as the command line argument and check if the
+   extension is valid.
