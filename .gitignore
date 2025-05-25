@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
-
+.idea/*
+cmake-build-debug/*
+main.dSYM/*
 # Compiled Object files
 *.slo
 *.lo
